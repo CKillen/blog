@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+One Day I'll put my contact info?
+Maybe discord, email and linkedin

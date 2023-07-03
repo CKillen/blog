@@ -1,6 +1,6 @@
 # Configurations
-title:            Chris K 
-longtitle:        Chris K
+title:            Chris Ks Blog
+longtitle:        Chris Ks Blog
 author:           Chris Killen
 description: >
   Maybe a blog that I will keep up with.
@@ -8,8 +8,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/'
+url:              'https://ckillen.github.io'
+baseurl:          '/blog'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
